@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Derya</h1>
-<h3 align="center">A passionate full stack developer from Turkey</h3>
+<h3 align="center">A passionate full stack developer from Turkey, I'm open to learn.I am looking forward to using my work experience in the software industry.</h3>
 
-- 🌱 I’m currently learning **Microservice, MongoDB and PMI**
+- 🌱 I’m currently learning **Microservice, MongoDB, PMI**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/deryaostundag/](https://www.linkedin.com/in/deryaostundag/)
 
